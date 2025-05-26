@@ -1,14 +1,13 @@
-import Banner from "../../components/banner";
 import Cards from "../../components/cards";
-import banner_picture from "../../assets/images/IMG.png";
+import Presentation from "../../components/presentation";
+import Skills from "../../components/skills";
 
 function App() {
   return (
     <main>
-      <Banner
-        title="Chez vous, partout et ailleurs"
-        imageURL={banner_picture}
-      />
+      <Presentation />
+      <Skills />
+      <h1>Projects</h1>
       <Cards />
     </main>
   );

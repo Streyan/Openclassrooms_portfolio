@@ -6,10 +6,11 @@ function Cards() {
     <div className="cards">
       {logements.map((logement) => (
         <Card
-          id={logement.id}
           title={logement.title}
           imageURL={logement.cover}
-          key={logement.id}
+          tags={logement.tags}
+          codeLink={logement.codeLink}
+          projectLink={logement.projectLink}
         />
       ))}
     </div>

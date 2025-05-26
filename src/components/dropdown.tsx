@@ -2,10 +2,9 @@ import { useState } from "react";
 
 interface Props {
   title: string;
-  text: string | string[];
 }
 
-function Dropdown({ title, text }: Props) {
+function Dropdown({ title }: Props) {
   const [isCollapseOpen, setCollapse] = useState<boolean>(false);
 
   return (
@@ -27,19 +26,7 @@ function Dropdown({ title, text }: Props) {
         className={
           isCollapseOpen ? "dropdown_content_open" : "dropdown_content_closed"
         }
-      >
-        <div className="dropdown_content_text">
-          {typeof text === "string" ? (
-            <p>{text}</p>
-          ) : (
-            text.map((line) => (
-              <div key={line}>
-                <p>{line}</p> <br />
-              </div>
-            ))
-          )}
-        </div>
-      </div>
+      ></div>
     </div>
   );
 }

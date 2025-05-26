@@ -1,15 +1,12 @@
 import { NavLink } from "react-router";
-import logo from "../assets/images/LOGO.png";
 
 function Header() {
   return (
     <div className="flex-space-between header">
-      <NavLink to="/">
-        <img src={logo} className="header_logo" alt="Kasa logo" />
-      </NavLink>
+      <h1>celineleplongeon</h1>
       <nav className="flex-row">
-        <NavLink to="/">Accueil</NavLink>
-        <NavLink to="/about">A Propos</NavLink>
+        <NavLink to="/">Linkedin</NavLink>
+        <NavLink to="/about">Github</NavLink>
       </nav>
     </div>
   );
