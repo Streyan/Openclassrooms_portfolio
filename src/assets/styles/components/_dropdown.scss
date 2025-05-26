@@ -1,0 +1,37 @@
+.dropdown {
+  width: 100%;
+  &_header {
+    height: 2rem;
+    width: 100%;
+    background-color: #ff6060;
+    color: white;
+    border-radius: 5px;
+    padding: 1.5rem;
+    &_title {
+      text-transform: capitalize;
+      font-weight: 700;
+      font-size: 18px;
+      @media (max-width: 768px) {
+        font-size: 13px;
+      }
+    }
+  }
+  &_content {
+    &_text p {
+      font-size: 18px;
+      @media (max-width: 768px) {
+        font-size: 12px;
+      }
+    }
+    &_open {
+      width: 100%;
+      background-color: #f6f6f673;
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px;
+      padding: 1rem;
+    }
+    &_closed {
+      display: none;
+    }
+  }
+}
