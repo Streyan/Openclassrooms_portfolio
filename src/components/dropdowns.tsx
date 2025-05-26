@@ -8,11 +8,7 @@ function Dropdowns({ dropdowns }: Props) {
   return (
     <div className="flex-column dropdowns">
       {dropdowns.map((dropdown) => (
-        <Dropdown
-          key={dropdown.title}
-          title={dropdown.title}
-          text={dropdown.text}
-        />
+        <Dropdown key={dropdown.title} title={dropdown.title} />
       ))}
     </div>
   );
