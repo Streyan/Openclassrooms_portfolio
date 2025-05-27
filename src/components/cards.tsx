@@ -13,6 +13,7 @@ function Cards() {
             tags={projet.tags}
             codeLink={projet.codeLink}
             projectLink={projet.projectLink}
+            key={projet.title}
           />
         ))}
       </div>

@@ -5,7 +5,7 @@ function Skills() {
   return (
     <div className="skills">
       {skills.map((skill) => (
-        <Skill xp={skill.xp} title={skill.name} />
+        <Skill xp={skill.xp} title={skill.name} key={skill.name} />
       ))}
     </div>
   );

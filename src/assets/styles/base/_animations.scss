@@ -8,13 +8,3 @@
     }
   }
 }
-
-.rotate {
-  i {
-    transition: all 0.5s;
-  }
-
-  i.open {
-    transform: rotate(180deg);
-  }
-}

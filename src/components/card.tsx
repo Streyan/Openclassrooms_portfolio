@@ -15,7 +15,9 @@ function Card({ title, imageURL, tags }: Props) {
       <p className="card_title headingM">{title}</p>
       <div className="flex-row">
         {tags.map((tag) => (
-          <p className="text">{tag}</p>
+          <p className="text" key={tag}>
+            {tag}
+          </p>
         ))}
       </div>
     </div>
