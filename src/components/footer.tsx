@@ -6,7 +6,7 @@ function Footer() {
     <div className="flex-column footer background_light-grey ">
       <Separator />
       <div className="flex-space-between footer background_light-grey black">
-        <h1 className="black headingM">celineleplongeon</h1>
+        <h1 className="black name">celineleplongeon</h1>
         <Socials />
       </div>
     </div>
