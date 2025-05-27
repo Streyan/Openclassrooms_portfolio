@@ -1,8 +1,10 @@
 function Presentation() {
   return (
-    <div className="flex-column banner">
-      <p className="banner_text">Nice to meet you!</p>
-      <div>Blah blah</div>
+    <div className="flex-column">
+      <p className="headingXL black">Bienvenue ! Je suis Céline Leplongeon.</p>
+      <p className="text black">
+        Basée à Montpellier, France, je suis une développeuse front-end.
+      </p>
     </div>
   );
 }

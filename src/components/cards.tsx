@@ -1,18 +1,21 @@
 import Card from "./card";
-import logements from "../../logements.json";
+import projets from "../../projets.json";
 
 function Cards() {
   return (
-    <div className="cards">
-      {logements.map((logement) => (
-        <Card
-          title={logement.title}
-          imageURL={logement.cover}
-          tags={logement.tags}
-          codeLink={logement.codeLink}
-          projectLink={logement.projectLink}
-        />
-      ))}
+    <div>
+      <h1 className="headingXL">Projects</h1>
+      <div className="cards">
+        {projets.map((projet) => (
+          <Card
+            title={projet.title}
+            imageURL={projet.cover}
+            tags={projet.tags}
+            codeLink={projet.codeLink}
+            projectLink={projet.projectLink}
+          />
+        ))}
+      </div>
     </div>
   );
 }

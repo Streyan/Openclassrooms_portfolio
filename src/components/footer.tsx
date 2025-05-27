@@ -1,13 +1,10 @@
-import { NavLink } from "react-router";
+import Socials from "./socials";
 
 function Footer() {
   return (
-    <div className="flex-column footer">
-      <h1>celineleplongeon</h1>
-      <nav className="flex-row">
-        <NavLink to="/">Linkedin</NavLink>
-        <NavLink to="/about">Github</NavLink>
-      </nav>
+    <div className="flex-space-between footer background_light-grey black">
+      <h1 className="black headingM">celineleplongeon</h1>
+      <Socials />
     </div>
   );
 }

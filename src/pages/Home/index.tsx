@@ -7,7 +7,6 @@ function App() {
     <main>
       <Presentation />
       <Skills />
-      <h1>Projects</h1>
       <Cards />
     </main>
   );

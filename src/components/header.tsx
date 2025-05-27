@@ -1,13 +1,10 @@
-import { NavLink } from "react-router";
+import Socials from "./socials";
 
 function Header() {
   return (
     <div className="flex-space-between header">
-      <h1>celineleplongeon</h1>
-      <nav className="flex-row">
-        <NavLink to="/">Linkedin</NavLink>
-        <NavLink to="/about">Github</NavLink>
-      </nav>
+      <h1 className="black headingM">celineleplongeon</h1>
+      <Socials />
     </div>
   );
 }

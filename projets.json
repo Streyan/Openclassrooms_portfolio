@@ -4,27 +4,27 @@
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
     "codeLink": "Projet 1",
     "projectLink": "Projet 1",
-    "tags": ["Batignolle", "Montmartre"]
+    "tags": ["HTML", "CSS"]
   },
   {
     "title": "Projet 2",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
     "codeLink": "Projet 1",
     "projectLink": "Projet 1",
-    "tags": ["Batignolle", "Montmartre"]
+    "tags": ["HTML", "CSS"]
   },
   {
     "title": "Projet 3",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
     "codeLink": "Projet 1",
     "projectLink": "Projet 1",
-    "tags": ["Batignolle", "Montmartre"]
+    "tags": ["HTML", "CSS", "Javascript"]
   },
   {
     "title": "Projet 4",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
     "codeLink": "Projet 4",
     "projectLink": "Projet 4",
-    "tags": ["Batignolle", "Montmartre"]
+    "tags": ["HTML", "CSS", "Javascript"]
   }
 ]

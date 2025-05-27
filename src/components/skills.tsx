@@ -1,11 +1,11 @@
-import Dropdown from "./dropdown";
+import Skill from "./skill";
 import skills from "../../skills.json";
 
 function Skills() {
   return (
-    <div className="flex-column dropdowns">
-      {skills.map((logement) => (
-        <Dropdown key={logement.xp} title={logement.name} />
+    <div className="flex-row skills">
+      {skills.map((skill) => (
+        <Skill xp={skill.xp} title={skill.name} />
       ))}
     </div>
   );

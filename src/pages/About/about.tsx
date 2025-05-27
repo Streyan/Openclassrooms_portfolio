@@ -1,5 +1,4 @@
 import Banner from "../../components/banner";
-import Dropdowns from "../../components/dropdowns";
 import banner_picture from "../../assets/images/Image source 2.png";
 
 const aboutList = [
@@ -25,7 +24,6 @@ function About() {
   return (
     <main>
       <Banner imageURL={banner_picture} />
-      <Dropdowns dropdowns={aboutList} />
     </main>
   );
 }

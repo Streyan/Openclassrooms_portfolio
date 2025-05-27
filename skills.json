@@ -1,17 +1,26 @@
 [
   {
-    "id": "c67ab8a7",
-    "name": "Skill 1",
+    "name": "HTML",
+    "xp": "3"
+  },
+  {
+    "name": "CSS",
+    "xp": "3"
+  },
+  {
+    "name": "Javascript",
     "xp": "2"
   },
   {
-    "id": "c67ab8a7",
-    "name": "Skill 2",
-    "xp": "2"
+    "name": "HTML",
+    "xp": "3"
   },
   {
-    "id": "c67ab8a7",
-    "name": "Skill 3",
+    "name": "CSS",
+    "xp": "3"
+  },
+  {
+    "name": "Javascript",
     "xp": "2"
   }
 ]

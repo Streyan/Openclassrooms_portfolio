@@ -1,15 +1,4 @@
 .footer {
   padding: 2rem;
-  background-color: black;
-  color: white;
   min-height: 50px;
-  gap: 1rem;
-  img {
-    max-height: 40px;
-  }
-  p {
-    @media (max-width: 768px) {
-      font-size: 12px;
-    }
-  }
 }

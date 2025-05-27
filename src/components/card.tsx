@@ -6,19 +6,18 @@ interface Props {
   projectLink: string;
 }
 
-function Card({ title, imageURL }: Props) {
+function Card({ title, imageURL, tags, codeLink, projectLink }: Props) {
   return (
-    <div>
-      <p className="card_title">{title}</p>
-      <div className="card_background zoom">
-        <div className="card_blur"></div>
-        <img
-          className="card_picture "
-          src={imageURL}
-          alt="image de la location"
-        />
+    <div className="flex-column zoom">
+      <div className="card_background">
+        <img className="card_picture" src={imageURL} alt="image du projet" />
       </div>
-      <p>tags</p>
+      <p className="card_title headingM">{title}</p>
+      <div className="flex-row">
+        {tags.map((tag) => (
+          <p className="text">{tag}</p>
+        ))}
+      </div>
     </div>
   );
 }
