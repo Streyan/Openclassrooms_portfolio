@@ -6,7 +6,7 @@ interface Props {
   projectLink: string;
 }
 
-function Card({ title, imageURL, tags, codeLink, projectLink }: Props) {
+function Card({ title, imageURL, tags }: Props) {
   return (
     <div className="flex-column zoom">
       <div className="card_background">
