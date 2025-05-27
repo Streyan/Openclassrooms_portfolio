@@ -30,3 +30,13 @@ a {
   color: unset;
   text-decoration-line: none;
 }
+
+main {
+  padding: 3rem;
+  margin: 3rem;
+  gap: 2rem;
+  @media (max-width: 768px) {
+    margin: 0;
+    padding: 1.5rem;
+  }
+}

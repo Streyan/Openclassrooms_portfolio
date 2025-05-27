@@ -1,16 +1,13 @@
 .skills {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 2rem;
-  margin: 2rem;
   gap: 1rem;
+  width: 100%;
   @media (max-width: 768px) {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-content: center;
     align-items: center;
-    margin: 0;
-    padding: 1.5rem;
   }
 }

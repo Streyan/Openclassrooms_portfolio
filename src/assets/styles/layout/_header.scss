@@ -1,6 +1,7 @@
 .header {
   padding: 2rem;
   min-height: 50px;
+  flex-wrap: wrap;
   a {
     @media (max-width: 768px) {
       font-size: 12px;
