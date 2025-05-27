@@ -1,9 +1,7 @@
 .cards {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   padding: 2rem;
-  background-color: #f6f6f6;
-  border-radius: 25px;
   margin: 2rem;
   gap: 1rem;
   @media (max-width: 768px) {
@@ -12,7 +10,6 @@
     flex-wrap: wrap;
     align-content: center;
     align-items: center;
-    background-color: white;
     margin: 0;
     padding: 1.5rem;
   }

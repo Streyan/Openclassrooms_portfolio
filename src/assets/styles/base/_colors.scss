@@ -27,3 +27,7 @@ $white: #ffffff;
 .background_light-grey {
   background-color: $light-grey;
 }
+
+.underline {
+  text-decoration: underline $green;
+}
