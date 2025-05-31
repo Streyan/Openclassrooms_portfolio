@@ -5,7 +5,7 @@ interface Props {
 function Tag({ value }: Props) {
   return (
     <div className="tag">
-      <p>{value}</p>
+      <p className="text black">{value}</p>
     </div>
   );
 }

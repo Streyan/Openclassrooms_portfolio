@@ -20,6 +20,20 @@ $white: #ffffff;
   background-color: $dark-grey;
 }
 
+.background_white {
+  background-color: $white;
+}
+
 .underline {
   text-decoration: underline $purple;
+}
+
+.button-underline {
+  border-bottom: 1px solid $purple;
+}
+
+.link {
+  &:hover {
+    color: $purple;
+  }
 }

@@ -6,8 +6,8 @@ interface Props {
 function Skill({ title, xp }: Props) {
   return (
     <div className="flex-column skill">
-      <p className="dropdown_skill_title headingL">{title}</p>
-      <p className="dropdown_skill_subtitle text">{xp} ans d'expérience</p>
+      <p className="headingL black">{title}</p>
+      <p className="text black">{xp} ans d'expérience</p>
     </div>
   );
 }

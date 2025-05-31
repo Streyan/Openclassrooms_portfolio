@@ -10,7 +10,7 @@ interface Props {
   projectLink: string;
 }
 
-function Card({
+function Modale({
   title,
   imageURL,
   tags,
@@ -44,4 +44,4 @@ function Card({
   );
 }
 
-export default Card;
+export default Modale;

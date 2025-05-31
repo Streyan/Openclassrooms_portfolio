@@ -4,7 +4,7 @@ import projets from "../../projets.json";
 function Cards() {
   return (
     <div>
-      <h1 className="headingXL">Projects</h1>
+      <h1 className="headingXL black">Projects</h1>
       <div className="cards">
         {projets.map((projet) => (
           <Card
@@ -14,6 +14,7 @@ function Cards() {
             codeLink={projet.codeLink}
             projectLink={projet.projectLink}
             key={projet.title}
+            description={projet.description}
           />
         ))}
       </div>
