@@ -1,34 +1,100 @@
 [
   {
-    "title": "Projet 1",
+    "title": "Openclassrooms_portfolio",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat lectus nec tincidunt ultricies. Vestibulum quam mi, auctor in mauris sit amet, placerat lobortis est. Donec finibus lorem mi, quis pulvinar orci gravida id. Duis eu purus sit amet dolor porttitor iaculis ac ut risus. Fusce finibus sodales lorem at scelerisque. Curabitur ac sem elit. Nullam et arcu id orci sollicitudin venenatis. Vivamus ac dui felis. Sed ornare purus in arcu venenatis, id tristique metus maximus. Vestibulum mattis nibh eu viverra rutrum. Mauris imperdiet magna non nibh porttitor venenatis. Suspendisse molestie ac sem vestibulum consequat. Aenean imperdiet ornare odio id egestas. Donec at purus nec sem hendrerit ornare a vitae leo. Quisque ut dolor in nulla efficitur commodo. Sed sed laoreet erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas efficitur erat ac augue vestibulum, at semper purus gravida. Nunc pretium risus id pellentesque malesuada. Maecenas consequat, ante a aliquet semper, tellus velit iaculis ligula, sit amet tempor nulla sem eleifend ligula. Quisque aliquet accumsan ipsum in porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ut tortor eu mauris rutrum fringilla ac vitae sapien. Duis scelerisque luctus lacinia. Maecenas iaculis neque ipsum, ac euismod leo feugiat eget. Praesent congue elit risus, at commodo sapien lobortis id. Sed a lacinia neque, volutpat bibendum nunc. Integer at laoreet risus. Donec sit amet ipsum ac velit tincidunt congue varius non odio. Morbi mollis augue mi, ut efficitur sapien pretium dignissim. Vestibulum semper turpis nec quam finibus, sed posuere mi convallis. Donec gravida libero erat, eu malesuada augue faucibus in. In consequat nulla ut urna dapibus, at pharetra est pharetra. Cras efficitur dui quis imperdiet feugiat. Vivamus quis risus vitae ex sagittis mollis. Duis vestibulum aliquet efficitur. Ut sollicitudin sem posuere mauris congue molestie. Nulla id nulla sit amet ante aliquam facilisis quis non quam. Nulla tincidunt nulla egestas elementum egestas. Nam pharetra elementum varius. Donec euismod sapien non metus tincidunt vulputate. Duis fringilla, lacus mollis volutpat pharetra, leo enim semper nisl, eu tristique ipsum tortor id justo. Fusce nec nisl porttitor, vehicula ipsum non, tempus ipsum. Mauris eu libero elit. Nam pellentesque imperdiet mauris, ut efficitur nisi auctor sed. Sed eget ipsum mauris. Donec feugiat, nisi hendrerit varius rutrum, sem mi facilisis augue, in maximus dolor magna congue nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non aliquet tortor, vel varius diam. Curabitur rutrum turpis sed elit commodo, non efficitur nisl posuere. Pellentesque et facilisis nunc. Sed purus augue, pulvinar sit amet molestie vel, tempus eget tortor. Maecenas vel pellentesque metus. Integer nec velit ac purus euismod ornare in et justo. In mattis, ipsum ut commodo malesuada, lectus lorem mollis orci, ac vestibulum tortor massa suscipit nisl. Donec a iaculis dui, et tincidunt dolor.",
+    "description": "Openclassrooms_portfolio",
     "codeLink": "https://github.com/Streyan/Openclassrooms_portfolio",
     "projectLink": "https://portfolio-eta-gilt-31.vercel.app/",
-    "tags": ["HTML", "CSS"]
+    "tags": ["HTML", "CSS", "Javascript", "Typescript", "React"]
   },
   {
-    "title": "Projet 2",
+    "title": "Openclassrooms_Argent-Bank",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat lectus nec tincidunt ultricies. Vestibulum quam mi, auctor in mauris sit amet, placerat lobortis est. Donec finibus lorem mi, quis pulvinar orci gravida id. Duis eu purus sit amet dolor porttitor iaculis ac ut risus. Fusce finibus sodales lorem at scelerisque. Curabitur ac sem elit. Nullam et arcu id orci sollicitudin venenatis. Vivamus ac dui felis. Sed ornare purus in arcu venenatis, id tristique metus maximus. Vestibulum mattis nibh eu viverra rutrum. Mauris imperdiet magna non nibh porttitor venenatis. Suspendisse molestie ac sem vestibulum consequat. Aenean imperdiet ornare odio id egestas. Donec at purus nec sem hendrerit ornare a vitae leo. Quisque ut dolor in nulla efficitur commodo. Sed sed laoreet erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas efficitur erat ac augue vestibulum, at semper purus gravida. Nunc pretium risus id pellentesque malesuada. Maecenas consequat, ante a aliquet semper, tellus velit iaculis ligula, sit amet tempor nulla sem eleifend ligula. Quisque aliquet accumsan ipsum in porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ut tortor eu mauris rutrum fringilla ac vitae sapien. Duis scelerisque luctus lacinia. Maecenas iaculis neque ipsum, ac euismod leo feugiat eget. Praesent congue elit risus, at commodo sapien lobortis id. Sed a lacinia neque, volutpat bibendum nunc. Integer at laoreet risus. Donec sit amet ipsum ac velit tincidunt congue varius non odio. Morbi mollis augue mi, ut efficitur sapien pretium dignissim. Vestibulum semper turpis nec quam finibus, sed posuere mi convallis. Donec gravida libero erat, eu malesuada augue faucibus in. In consequat nulla ut urna dapibus, at pharetra est pharetra. Cras efficitur dui quis imperdiet feugiat. Vivamus quis risus vitae ex sagittis mollis. Duis vestibulum aliquet efficitur. Ut sollicitudin sem posuere mauris congue molestie. Nulla id nulla sit amet ante aliquam facilisis quis non quam. Nulla tincidunt nulla egestas elementum egestas. Nam pharetra elementum varius. Donec euismod sapien non metus tincidunt vulputate. Duis fringilla, lacus mollis volutpat pharetra, leo enim semper nisl, eu tristique ipsum tortor id justo. Fusce nec nisl porttitor, vehicula ipsum non, tempus ipsum. Mauris eu libero elit. Nam pellentesque imperdiet mauris, ut efficitur nisi auctor sed. Sed eget ipsum mauris. Donec feugiat, nisi hendrerit varius rutrum, sem mi facilisis augue, in maximus dolor magna congue nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non aliquet tortor, vel varius diam. Curabitur rutrum turpis sed elit commodo, non efficitur nisl posuere. Pellentesque et facilisis nunc. Sed purus augue, pulvinar sit amet molestie vel, tempus eget tortor. Maecenas vel pellentesque metus. Integer nec velit ac purus euismod ornare in et justo. In mattis, ipsum ut commodo malesuada, lectus lorem mollis orci, ac vestibulum tortor massa suscipit nisl. Donec a iaculis dui, et tincidunt dolor.",
-    "codeLink": "https://github.com/Streyan/Openclassrooms_portfolio",
-    "projectLink": "https://portfolio-eta-gilt-31.vercel.app/",
-    "tags": ["HTML", "CSS"]
+    "description": "Openclassrooms_Argent-Bank",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_Argent-Bank",
+    "tags": ["HTML", "CSS", "Javascript", "Typescript"]
   },
   {
-    "title": "Projet 3",
+    "title": "Openclassrooms_724events",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat lectus nec tincidunt ultricies. Vestibulum quam mi, auctor in mauris sit amet, placerat lobortis est. Donec finibus lorem mi, quis pulvinar orci gravida id. Duis eu purus sit amet dolor porttitor iaculis ac ut risus. Fusce finibus sodales lorem at scelerisque. Curabitur ac sem elit. Nullam et arcu id orci sollicitudin venenatis. Vivamus ac dui felis. Sed ornare purus in arcu venenatis, id tristique metus maximus. Vestibulum mattis nibh eu viverra rutrum. Mauris imperdiet magna non nibh porttitor venenatis. Suspendisse molestie ac sem vestibulum consequat. Aenean imperdiet ornare odio id egestas. Donec at purus nec sem hendrerit ornare a vitae leo. Quisque ut dolor in nulla efficitur commodo. Sed sed laoreet erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas efficitur erat ac augue vestibulum, at semper purus gravida. Nunc pretium risus id pellentesque malesuada. Maecenas consequat, ante a aliquet semper, tellus velit iaculis ligula, sit amet tempor nulla sem eleifend ligula. Quisque aliquet accumsan ipsum in porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ut tortor eu mauris rutrum fringilla ac vitae sapien. Duis scelerisque luctus lacinia. Maecenas iaculis neque ipsum, ac euismod leo feugiat eget. Praesent congue elit risus, at commodo sapien lobortis id. Sed a lacinia neque, volutpat bibendum nunc. Integer at laoreet risus. Donec sit amet ipsum ac velit tincidunt congue varius non odio. Morbi mollis augue mi, ut efficitur sapien pretium dignissim. Vestibulum semper turpis nec quam finibus, sed posuere mi convallis. Donec gravida libero erat, eu malesuada augue faucibus in. In consequat nulla ut urna dapibus, at pharetra est pharetra. Cras efficitur dui quis imperdiet feugiat. Vivamus quis risus vitae ex sagittis mollis. Duis vestibulum aliquet efficitur. Ut sollicitudin sem posuere mauris congue molestie. Nulla id nulla sit amet ante aliquam facilisis quis non quam. Nulla tincidunt nulla egestas elementum egestas. Nam pharetra elementum varius. Donec euismod sapien non metus tincidunt vulputate. Duis fringilla, lacus mollis volutpat pharetra, leo enim semper nisl, eu tristique ipsum tortor id justo. Fusce nec nisl porttitor, vehicula ipsum non, tempus ipsum. Mauris eu libero elit. Nam pellentesque imperdiet mauris, ut efficitur nisi auctor sed. Sed eget ipsum mauris. Donec feugiat, nisi hendrerit varius rutrum, sem mi facilisis augue, in maximus dolor magna congue nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non aliquet tortor, vel varius diam. Curabitur rutrum turpis sed elit commodo, non efficitur nisl posuere. Pellentesque et facilisis nunc. Sed purus augue, pulvinar sit amet molestie vel, tempus eget tortor. Maecenas vel pellentesque metus. Integer nec velit ac purus euismod ornare in et justo. In mattis, ipsum ut commodo malesuada, lectus lorem mollis orci, ac vestibulum tortor massa suscipit nisl. Donec a iaculis dui, et tincidunt dolor.",
-    "codeLink": "https://github.com/Streyan/Openclassrooms_portfolio",
-    "projectLink": "https://portfolio-eta-gilt-31.vercel.app/",
+    "description": "Openclassrooms_724events",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_724events",
     "tags": ["HTML", "CSS", "Javascript"]
   },
   {
-    "title": "Projet 4",
+    "title": "Openclassrooms_nina-carducci",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat lectus nec tincidunt ultricies. Vestibulum quam mi, auctor in mauris sit amet, placerat lobortis est. Donec finibus lorem mi, quis pulvinar orci gravida id. Duis eu purus sit amet dolor porttitor iaculis ac ut risus. Fusce finibus sodales lorem at scelerisque. Curabitur ac sem elit. Nullam et arcu id orci sollicitudin venenatis. Vivamus ac dui felis. Sed ornare purus in arcu venenatis, id tristique metus maximus. Vestibulum mattis nibh eu viverra rutrum. Mauris imperdiet magna non nibh porttitor venenatis. Suspendisse molestie ac sem vestibulum consequat. Aenean imperdiet ornare odio id egestas. Donec at purus nec sem hendrerit ornare a vitae leo. Quisque ut dolor in nulla efficitur commodo. Sed sed laoreet erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas efficitur erat ac augue vestibulum, at semper purus gravida. Nunc pretium risus id pellentesque malesuada. Maecenas consequat, ante a aliquet semper, tellus velit iaculis ligula, sit amet tempor nulla sem eleifend ligula. Quisque aliquet accumsan ipsum in porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ut tortor eu mauris rutrum fringilla ac vitae sapien. Duis scelerisque luctus lacinia. Maecenas iaculis neque ipsum, ac euismod leo feugiat eget. Praesent congue elit risus, at commodo sapien lobortis id. Sed a lacinia neque, volutpat bibendum nunc. Integer at laoreet risus. Donec sit amet ipsum ac velit tincidunt congue varius non odio. Morbi mollis augue mi, ut efficitur sapien pretium dignissim. Vestibulum semper turpis nec quam finibus, sed posuere mi convallis. Donec gravida libero erat, eu malesuada augue faucibus in. In consequat nulla ut urna dapibus, at pharetra est pharetra. Cras efficitur dui quis imperdiet feugiat. Vivamus quis risus vitae ex sagittis mollis. Duis vestibulum aliquet efficitur. Ut sollicitudin sem posuere mauris congue molestie. Nulla id nulla sit amet ante aliquam facilisis quis non quam. Nulla tincidunt nulla egestas elementum egestas. Nam pharetra elementum varius. Donec euismod sapien non metus tincidunt vulputate. Duis fringilla, lacus mollis volutpat pharetra, leo enim semper nisl, eu tristique ipsum tortor id justo. Fusce nec nisl porttitor, vehicula ipsum non, tempus ipsum. Mauris eu libero elit. Nam pellentesque imperdiet mauris, ut efficitur nisi auctor sed. Sed eget ipsum mauris. Donec feugiat, nisi hendrerit varius rutrum, sem mi facilisis augue, in maximus dolor magna congue nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non aliquet tortor, vel varius diam. Curabitur rutrum turpis sed elit commodo, non efficitur nisl posuere. Pellentesque et facilisis nunc. Sed purus augue, pulvinar sit amet molestie vel, tempus eget tortor. Maecenas vel pellentesque metus. Integer nec velit ac purus euismod ornare in et justo. In mattis, ipsum ut commodo malesuada, lectus lorem mollis orci, ac vestibulum tortor massa suscipit nisl. Donec a iaculis dui, et tincidunt dolor.",
-    "codeLink": "https://github.com/Streyan/Openclassrooms_portfolio",
-    "projectLink": "https://portfolio-eta-gilt-31.vercel.app/",
+    "description": "Openclassrooms_nina-carducci",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_nina-carducci",
+    "projectLink": "https://streyan.github.io/Openclassrooms_nina-carducci/",
     "tags": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Openclassrooms_kasa",
+    "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "description": "Openclassrooms_kasa",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_kasa",
+    "projectLink": "https://streyan.github.io/Openclassrooms_kasa/",
+    "tags": ["HTML", "CSS", "Javascript", "Typescript"]
+  },
+  {
+    "title": "Projet 6 de la formation intégrateur web de Openclassrooms : Portfolio Sophie Bluel",
+    "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "description": "Ce projet vous engage à créer une page web dynamique pour le site internet d'une architecte d'intérieur en utilisant JavaScript et en communiquant avec une API. Vous travaillerez sur la partie Front-End du site, où vous développerez la page de présentation des travaux de l'architecte à partir du HTML fourni. Cela impliquera la gestion des événements utilisateurs et la manipulation des éléments du DOM avec JavaScript. Vous créerez également une page de connexion pour l'administrateur du site ainsi qu'une modale permettant d'uploader de nouveaux médias. Ces éléments seront développés from scratch, vous offrant l'opportunité de mettre en pratique vos compétences en JavaScript de manière approfondie. Pour la première fois, vous aurez accès à un code back-end pour tester les fonctionnalités. Vous apprendrez à communiquer avec une API, ce qui est crucial pour les applications web modernes. Vous utiliserez Figma pour accéder aux maquettes, Visual Studio Code pour le développement, et GitHub pour la gestion de version de votre projet.",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_sophie-bluel",
+    "projectLink": "https://streyan.github.io/Openclassrooms_sophie-bluel/",
+    "tags": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Projet 5 de la formation intégrateur web de Openclassrooms : Print it",
+    "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "description": "La mission est de dynamiser le site Internet statique d’une petite imprimerie familiale nommée Print it.",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_printit",
+    "projectLink": "https://streyan.github.io/Openclassrooms_printit/",
+    "tags": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Projet 4 de la formation intégrateur web de Openclassrooms : ohmyfood",
+    "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "description": "La mission est de développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_ohmyfood",
+    "projectLink": "https://streyan.github.io/Openclassrooms_ohmyfood/",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "title": "Projet 3 de la formation intégrateur web de Openclassrooms : Booki",
+    "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "description": "Créer la page d'accueil d'une agence de voyage avec HTML & CSS",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_booki",
+    "projectLink": "https://streyan.github.io/Openclassrooms_booki/",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "title": "Projet 2 de la formation intégrateur web de Openclassrooms : Riding Cities",
+    "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "description": "Ce projet est votre introduction aux fondamentaux du langage HTML. Vous allez travailler sur la mise à jour de la page web d’une association, en intégrant de nouveaux éléments conformément aux maquettes fournies. Votre tâche principale sera de créer une nouvelle section sur la page web de l'association. Vous devrez également ajouter un titre et deux boutons pour le téléchargement de plannings. Ce travail vous permettra de vous familiariser avec l'ajout et la structuration d'éléments en HTML. Bien que le CSS soit déjà présent dans le code, vous apprendrez à intégrer et adapter ces styles à la nouvelle section que vous créez. Cela vous donnera une compréhension de base de la manière dont HTML et CSS travaillent ensemble pour créer des pages web. Vous utiliserez Figma pour accéder aux maquettes et Visual Studio Code comme environnement de développement, vous familiarisant ainsi avec des outils essentiels de développement front-end.",
+    "codeLink": "https://github.com/Streyan/Openclassrooms_riding-cities",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "title": "Social links profile",
+    "cover": "https://github.com/Streyan/FrontEndMentor-Social-Links-Profile/blob/main/design/desktop-preview.jpg?raw=true",
+    "description": "Your challenge is to build out this social links profile and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go. Your users should be able to: See hover and focus states for all interactive elements on the page",
+    "codeLink": "https://github.com/Streyan/FrontEndMentor-Social-Links-Profile?tab=readme-ov-file",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "title": "Blog preview card",
+    "cover": "https://github.com/Streyan/FrontEndMentor-Blog-Preview-Card/blob/main/design/desktop-preview.jpg?raw=true",
+    "description": "Your challenge is to build out this blog preview card and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go. Your users should be able to: See hover and focus states for all interactive elements on the page",
+    "codeLink": "https://github.com/Streyan/FrontEndMentor-Blog-Preview-Card?tab=readme-ov-file",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "title": "QR code component",
+    "cover": "https://github.com/Streyan/FrontendMentor-QR-code-component/blob/main/design/desktop-preview.jpg?raw=true",
+    "description": "Your challenge is to build out this QR code component and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.",
+    "codeLink": "https://github.com/Streyan/FrontendMentor-QR-code-component?tab=readme-ov-file",
+    "tags": ["HTML", "CSS"]
   }
 ]

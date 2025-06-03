@@ -1,12 +1,20 @@
 import { useState } from "react";
 import Modal from "react-modal";
+import ModalContent from "./modalContent";
 
 interface Props {
-  content: string;
+  image: string;
+  title: string;
+  tags: string[];
+  description: string;
 }
 
-function CollapsibleText({ content }: Props) {
+function CollapsibleText({ image, title, tags, description }: Props) {
   const [isCollapseOpen, setCollapse] = useState<boolean>(false);
+
+  function closeModal() {
+    setCollapse(false);
+  }
 
   return (
     <div className="flex-column dropdown">
@@ -17,8 +25,13 @@ function CollapsibleText({ content }: Props) {
         <p className="text black link button-underline">En savoir plus</p>
       </button>
       <Modal isOpen={isCollapseOpen}>
-        <p className="text black">{content}</p>
-        <button onClick={() => setCollapse(false)}>Fermer</button>
+        <ModalContent
+          onClose={closeModal}
+          image={image}
+          title={title}
+          tags={tags}
+          description={description}
+        />
       </Modal>
     </div>
   );

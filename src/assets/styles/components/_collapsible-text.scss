@@ -1,9 +1,36 @@
 .dropdown {
-}
-
-.dropdown_content {
-  &_open {
+  gap: 2rem;
+  &_footer {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-end;
   }
-  &_closed {
+  &_header {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  &_content {
+    width: 100%;
+    height: 100%;
+    gap: 2rem;
+    &_title {
+      width: 100%;
+      height: 100%;
+      align-items: center;
+      justify-content: space-around;
+    }
+    &_picture {
+      width: 100%;
+      height: 100%;
+      justify-content: center;
+      align-items: center;
+      img {
+        max-width: 700px;
+        max-height: 600px;
+      }
+    }
   }
 }

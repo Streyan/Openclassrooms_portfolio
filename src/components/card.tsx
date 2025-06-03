@@ -7,7 +7,7 @@ interface Props {
   tags: string[];
   description: string;
   codeLink: string;
-  projectLink: string;
+  projectLink?: string;
 }
 
 function Card({
@@ -36,8 +36,13 @@ function Card({
         ))}
       </div>
       <div className="flex-row">
-        <CollapsibleText content={description} />
-        <Link title="Voir le projet" url={projectLink} />
+        <CollapsibleText
+          title={title}
+          description={description}
+          image={imageURL}
+          tags={tags}
+        />
+        {projectLink && <Link title="Voir le projet" url={projectLink} />}
         <Link title="Voir le code" url={codeLink} />
       </div>
     </div>
