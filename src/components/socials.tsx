@@ -1,8 +1,12 @@
 function Socials() {
   return (
     <nav className="flex-row">
-      <i className="fa-brands fa-github"></i>
-      <i className="fa-brands fa-linkedin"></i>
+      <a href="https://github.com/Streyan">
+        <i className="fa-brands fa-github"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/celine-leplongeon/">
+        <i className="fa-brands fa-linkedin"></i>
+      </a>
     </nav>
   );
 }

@@ -24,7 +24,10 @@ function CollapsibleText({ image, title, tags, description }: Props) {
       >
         <p className="text black link button-underline">En savoir plus</p>
       </button>
-      <Modal isOpen={isCollapseOpen}>
+      <Modal
+        isOpen={isCollapseOpen}
+        appElement={document.getElementById("root") || undefined}
+      >
         <ModalContent
           onClose={closeModal}
           image={image}
