@@ -3,7 +3,7 @@ import projets from "../../projets.json";
 
 function Cards() {
   return (
-    <div>
+    <div className="flex-column cards_title">
       <h1 className="headingXL black">Projects</h1>
       <div className="cards">
         {projets.map((projet) => (

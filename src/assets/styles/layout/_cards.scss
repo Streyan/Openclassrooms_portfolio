@@ -2,6 +2,9 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
+  &_title {
+    flex-wrap: wrap;
+  }
   @media (max-width: 768px) {
     display: flex;
     flex-direction: column;
@@ -9,4 +12,8 @@
     align-content: center;
     align-items: center;
   }
+}
+
+.zoom {
+  width: 100%;
 }

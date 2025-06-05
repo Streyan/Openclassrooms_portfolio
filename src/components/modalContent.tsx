@@ -13,7 +13,7 @@ function ModalContent({ onClose, image, title, tags, description }: Props) {
         <button onClick={onClose}>X</button>
       </div>
       <div className="flex-column dropdown_content">
-        <div className="flex-row dropdown_content_title">
+        <div className="dropdown_content_title">
           <p className="dropdown_title headingM black">{title}</p>
           <div className="flex-row">
             {tags.map((tag) => (
