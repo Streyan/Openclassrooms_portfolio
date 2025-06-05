@@ -1,7 +1,7 @@
 # Projet 12 de la formation intégrateur web de Openclassrooms : portfolio
 # Créez et publiez votre portfolio de développeur
 
-![image](https://github.com/user-attachments/assets/9a235773-accb-4d5a-bd77-3f785eefb691)
+![image](https://github.com/user-attachments/assets/1dc53d78-3d7b-4cf4-9410-eea6976b6c25)
 
 Ce dernier projet vous guide dans la création et la publication en ligne de votre propre portfolio de développeur, vous permettant de présenter votre parcours, vos compétences et vos projets de manière professionnelle.
 
