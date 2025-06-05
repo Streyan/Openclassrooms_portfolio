@@ -4,7 +4,7 @@ import projets from "../../projets.json";
 function Cards() {
   return (
     <div className="flex-column cards_title">
-      <h1 className="headingXL black">Projects</h1>
+      <h1 className="headingXL black">Projets</h1>
       <div className="cards">
         {projets.map((projet) => (
           <Card
